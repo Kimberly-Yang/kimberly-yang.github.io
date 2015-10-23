@@ -20,12 +20,12 @@ department_name: Health Sciences and Human Services Library
 department_URL: http://www.hshsl.umaryland.edu
 
 options:
-  have_selfie: true
+  have_selfie: false
   have_twitter: true
   have_linkedin: true
 
 github_username: Kimberly-Yang
-twitter_username: yangkimb
+twitter_username: @yangkimb
 linkedin_URL: https://www.linkedin.com/in/kimberlyfyang
 selfie_URL: https://pbs.twimg.com/profile_images/378800000739820478/000b0ae527da8ce66fa6a0d937e7965f_bigger.jpeg
 
