@@ -26,7 +26,7 @@ department_name:  Pharmaceutical Health Services Research (PHSR) Dept
 department_URL: https://www.pharmacy.umaryland.edu/about/depts/phsr/
 
 options:
-  have_selfie: false
+  have_selfie: true
   have_twitter: true
   have_linkedin: true
 
