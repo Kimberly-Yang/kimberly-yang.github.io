@@ -33,8 +33,8 @@
             {{ degree }}{% if forloop.last == false %},{% endif %}
             {% endfor %}
           </h1>
-          <p class="h3 m0">{{ site.job_title }}</p>
-          <p class="h4 m0"><a href="{{ site.jobtitle_URL }}">{{ site.job_title }}</a></p>
+
+          <p class="h3 m0"><a href="{{ site.jobtitle_URL }}">{{ site.job_title }}</a></p>
           <p class="h4 m0"><a href="{{ site.department_URL }}">{{ site.department_name }}</a></p>
           <p class="h4 m0"><a href="{{ site.institution_URL }}">{{ site.institution_name }}</a></p>
         </div>
