@@ -14,7 +14,8 @@ name: Kimberly Yang
 email: kyang@healthinfopro.net
 degrees: [JD, MLS] # type your degrees inside the square brackets in quotes and separated by a comma, ie: ["BA","MS","Ph.D"]
 
-job_title: Affiliate Assistant Professor 
+job_title: Affiliate Assistant Professor
+jobtitle_URL: https://www.pharmacy.umaryland.edu/about/depts/phsr/faculty/affiliate.html
 institution_name: University of Maryland School of Pharmacy
 institution_URL: http://pharmacy.umaryland.edu
 department_name: Pharmaceutical Health Services Research (PHSR) Dept
