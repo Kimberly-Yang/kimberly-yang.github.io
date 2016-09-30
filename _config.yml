@@ -11,18 +11,13 @@
 # This file is a derived from the HSHSL workshop Using GitHub to Manage Your Scholarly Work.
 
 name: Kimberly Yang
-email: kyang@hshsl.umaryland.edu
-job_title: Research, Education and Outreach Librarian | School of Pharmacy Librarian
+email: kyang@healthinfopro.net
 degrees: [JD, MLS] # type your degrees inside the square brackets in quotes and separated by a comma, ie: ["BA","MS","Ph.D"]
-institution_name: University of Maryland, Baltimore
-institution_URL: http://umaryland.edu
-department_name: Health Sciences and Human Services Library
-department_URL: http://www.hshsl.umaryland.edu
 
-job_title:  Affiliate Assistant Professor 
+job_title: Affiliate Assistant Professor 
 institution_name: University of Maryland School of Pharmacy
-institution_URL:  http://pharmacy.umaryland.edu
-department_name:  Pharmaceutical Health Services Research (PHSR) Dept
+institution_URL: http://pharmacy.umaryland.edu
+department_name: Pharmaceutical Health Services Research (PHSR) Dept
 department_URL: https://www.pharmacy.umaryland.edu/about/depts/phsr/
 
 options:
