@@ -29,7 +29,7 @@ options:
 github_username: Kimberly-Yang
 twitter_username: "@yangkimb"
 linkedin_URL: https://www.linkedin.com/in/kimberlyfyang
-selfie_URL: https://github.com/Kimberly-Yang/kimberly-yang.github.io/blob/master/Yang_profilepic-300_nocredit.jpg
+selfie_URL: https://raw.githubusercontent.com/Kimberly-Yang/kimberly-yang.github.io/master/Yang_profilepic-300_nocredit.jpg
 # Technical configuration
 markdown: kramdown
 permalinks: pretty
